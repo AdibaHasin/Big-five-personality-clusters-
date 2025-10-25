@@ -4,7 +4,7 @@ Personality Trait Clustering & Country Analysis
 This project explores global personality patterns using psychometric survey data from Kaggle: https://www.kaggle.com/datasets/tunguz/big-five-personality-test
 It applies data preprocessing, feature engineering, PCA, and KMeans clustering to uncover patterns in the **Big Five personality traits** across countries.
 
-#Objective
+# Objective
 
 To analyze personality trends and identify clusters of similar individuals based on:
 - Extraversion
@@ -13,7 +13,7 @@ To analyze personality trends and identify clusters of similar individuals based
 - Neuroticism
 - Openness to Experience
 
-#Methods & Workflow
+# Methods & Workflow
 
 ### 1. Data Preprocessing
 - Cleaned missing data and standardized column names  
@@ -35,6 +35,10 @@ Scaled all traits using 'MinMaxScaler' (range 0–1)
 - Filtered out small samples (Participants >= 30) for reliable comparisons  
 
 ## Key Results
+
+PCA clustering
+<img width="847" height="853" alt="Untitled" src="https://github.com/user-attachments/assets/970d1ae0-6e9b-4806-99c6-eaa60ef364c3" />
+
 
 | Trait | Highest Country | Score | Participants |
 |--------|------------------|--------|--------------|
