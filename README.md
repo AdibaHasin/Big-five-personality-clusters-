@@ -1,4 +1,4 @@
-# Big-five-personality-clusters-
+# Big-five-personality-clusters
 Personality Trait Clustering & Country Analysis
 
 This project explores global personality patterns using psychometric survey data from Kaggle: https://www.kaggle.com/datasets/tunguz/big-five-personality-test
