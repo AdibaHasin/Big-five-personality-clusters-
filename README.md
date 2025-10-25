@@ -21,7 +21,7 @@ To analyze personality trends and identify clusters of similar individuals based
 - Reverse-scored negatively worded questionnaire items  
 
 ### 2. Feature Engineering
-- Calculated mean scores per trait:
+- Calculated mean scores per trait: Extraversion_Score, Agreeableness_Score, Conscientiousness_Score, Neuroticism_Score, Openness_Score
 
 Scaled all traits using 'MinMaxScaler' (range 0–1)
 
