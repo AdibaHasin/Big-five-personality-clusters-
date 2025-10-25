@@ -37,7 +37,7 @@ Scaled all traits using 'MinMaxScaler' (range 0–1)
 ## Key Results
 
 
-<img width="847" height="853" alt="Untitled" src="https://github.com/user-attachments/assets/970d1ae0-6e9b-4806-99c6-eaa60ef364c3" />
+<img width="600" height="600" alt="Untitled" src="https://github.com/user-attachments/assets/970d1ae0-6e9b-4806-99c6-eaa60ef364c3" />
 
 
 | Trait | Highest Country | Score | Participants |
